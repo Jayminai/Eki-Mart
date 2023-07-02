@@ -1,12 +1,12 @@
-# EKI MART PROJECT
+# EKI MART PROJECT - Beta
 
-![Image](image1.jpg)
+![Image](images/image1.jpg)
 First Page
 
-![Image](image2.jpg)
+![Image](images/image2.jpg)
 Second Page
 
-![Image](image3.jpg)
+![Image](images/image3.jpg)
 Third Page
 
 
