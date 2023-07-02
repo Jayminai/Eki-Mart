@@ -19,7 +19,7 @@ This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.
 The App is still in Development stage
 
 ## Authors
-Kelvin Saduwa - [Github](https://github.com/Avwerosuo25)
-Esere Ejenugbor - [Github](https://github.com/Roys77111)
+Kelvin Saduwa - [Github](https://github.com/Avwerosuo25) /
+Esere Ejenugbor - [Github](https://github.com/Roys77111) /
 George Godstime - [Github](https://github.com/jayminai)
 
